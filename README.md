@@ -9,7 +9,9 @@
 
 ## d3 stuff
 https://www.dashingd3js.com/table-of-contents
+
 http://alignedleft.com/tutorials/d3
+
 https://github.com/mbostock/d3/wiki/Tutorials
 
 ## Exercises 
