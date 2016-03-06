@@ -3,9 +3,14 @@
   
 ## General knowledge
 1. read about the dom
+
 1.5 read about lambdas/anonymous functions, which is a huge thing in JS
+
 1.75 make sure you sort of understand the devtools console in your browser, and that you can fuck with JS completely in it
+
 2. do hello world in jquery, at least
+
+## d3 stuff
 https://www.dashingd3js.com/table-of-contents
 http://alignedleft.com/tutorials/d3
 https://github.com/mbostock/d3/wiki/Tutorials
